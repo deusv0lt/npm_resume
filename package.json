@@ -1,0 +1,12 @@
+{
+  "name": "npm_resume",
+  "version": "1.0.0",
+  "description": "Resume as an NPM package",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "emoji-unicode": "^2.0.1",
+    "inquirer": "^8.0.0"
+  }
+}
